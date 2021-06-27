@@ -1,5 +1,7 @@
 Completed the folloowing DataQuest guided projects for learning purpose:
 
+EURO-USD Rate Over Last 2 Decades
+
 Traffic Behavior in Sao Paolo
    
 Bike Sharing Dataset
